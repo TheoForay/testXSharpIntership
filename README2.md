@@ -1,1 +1,5 @@
-Del 2 and 1 added
+     Modified           
+     ------------------- 
+     CR de pull.md      
+     README.md          
+     thirdRandomFile.txt
