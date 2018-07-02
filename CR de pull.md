@@ -1,3 +1,3 @@
- Path    | lines | changes 
- ------- | -----:| -------- 
- test.md |     0 | Modified
+Path      | linesAdded | linesDeleted | status  
+--------- | ----------:| ------------:| -------- 
+README.md |          5 |            0 | Modified
