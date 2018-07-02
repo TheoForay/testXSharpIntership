@@ -10,5 +10,7 @@
 
 voyons avec plusieurs
 moins une ici et plus deux
-l
-a
+-2
++
+3
+0

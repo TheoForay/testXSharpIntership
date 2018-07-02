@@ -1,6 +1,6 @@
 Path          | linesAdded | linesDeleted | status  
 ------------- | ----------:| ------------:| -------- 
-CR de pull.md |         16 |           11 | Modified
-README.md     |         16 |           11 | Modified
-journal.md    |         16 |           11 | Modified
-test.md       |         16 |           11 | Modified
+CR de pull.md |          6 |            0 | Modified
+README.md     |          3 |            0 | Modified
+journal.md    |          2 |            0 | Modified
+test.md       |          1 |            0 | Modified
