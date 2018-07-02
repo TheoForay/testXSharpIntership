@@ -16,3 +16,6 @@ one more line
  Path                | lines | changes
  ------------------- | -----:| --------
  thirdRandomFile.txt |     0 | Modified
+
+* premier elem
+* deuxieme elem
