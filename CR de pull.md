@@ -1,3 +1,5 @@
-Path      | linesAdded | linesDeleted | status  
---------- | ----------:| ------------:| -------- 
-README.md |          5 |            0 | Modified
+Path       | linesAdded | linesDeleted | status  
+---------- | ----------:| ------------:| -------- 
+README.md  |          7 |            9 | Modified
+journal.md |          7 |            9 | Modified
+test.md    |          7 |            9 | Modified
