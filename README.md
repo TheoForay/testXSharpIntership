@@ -1,1 +1,2 @@
-Added 1 and deleted 1
+Change of the first line
+and one more added
