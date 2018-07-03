@@ -10,7 +10,5 @@
 
 voyons avec plusieurs
 moins une ici et plus deux
--2
-+
-3
-0
+-4
++2
