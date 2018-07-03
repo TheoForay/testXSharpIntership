@@ -6,3 +6,7 @@ Path                   | linesAdded | linesDeleted | status
 ---------------------- | ----------:| ------------:| -------- 
 CR de pull_3-7-2018.md |          2 |            0 | Modified
 Git_Stats_3-7-2018.md  |          4 |            0 | Added   
+
+Path                  | linesAdded | linesDeleted | status  
+--------------------- | ----------:| ------------:| -------- 
+Git_Stats_3-7-2018.md |          4 |            0 | Modified
