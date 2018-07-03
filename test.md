@@ -21,4 +21,4 @@ one more line
 
 cette fois j'espere que ca marche : 16h01
 peut etre maintenant alors
-j'en suppr 2 et j'en rajoute 1 ici
+j'en suppr 2 et j'en rajoute 1 ici là je fais rien

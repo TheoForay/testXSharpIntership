@@ -1,14 +1,10 @@
 # testXSharpIntership
 
 
-### H3
+### H3 je viens d'en enlever 5 et j'en mets 1 apres
+ici
 
 * une
 * liste
 * en
 * md
-
-voyons avec plusieurs
-moins une ici et plus deux
--4
-+2
